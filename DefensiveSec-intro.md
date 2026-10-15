@@ -1,33 +1,33 @@
 # TryHackMe: Defensive Security Intro (Walkthrough & Notes)
 
-Notes and practical takeaways from the **Defensive Security Intro** room on TryHackMe[span_1](start_span)[span_1](end_span).
+Notes and practical takeaways from the **Defensive Security Intro** room on TryHackMe.
 
 ---
 
 ## 📌 Room Overview
-- **Platform:** TryHackMe[span_2](start_span)[span_2](end_span)
-- **Category:** Pre Security > Introduction to Cyber Security[span_3](start_span)[span_3](end_span)
-- **Objective:** Protect a fictional banking application (FakeBank) from an ongoing cyber attack by analyzing alerts, identifying the attack vector, and mitigating the threat[span_4](start_span)[span_4](end_span).
+- **Platform:** TryHackMe
+- **Category:** Pre Security > Introduction to Cyber Security
+- **Objective:** Protect a fictional banking application (FakeBank) from an ongoing cyber attack by analyzing alerts, identifying the attack vector, and mitigating the threat.
 
 ---
 
 ## 🛡️ Key Tasks & Concepts Covered
 
 ### Task 1: Think like a Defender
-- Understanding the core mindset of Blue Teaming and defensive operations[span_5](start_span)[span_5](end_span).
-- Proactive defense: Monitoring application behaviors, network flows, and recognizing security baseline deviations[span_6](start_span)[span_6](end_span).
+- Understanding the core mindset of Blue Teaming and defensive operations.
+- Proactive defense: Monitoring application behaviors, network flows, and recognizing security baseline deviations.
 
 ### Task 2: Detect Suspicious Activity
-- Reviewing system alerts and incoming security event notifications[span_7](start_span)[span_7](end_span).
-- Identifying anomalies in customer transactions and sudden spikes in unusual requests[span_8](start_span)[span_8](end_span).
+- Reviewing system alerts and incoming security event notifications.
+- Identifying anomalies in customer transactions and sudden spikes in unusual requests.
 
 ### Task 3: Identify the Attack
-- Correlating server logs to uncover malicious patterns and unauthorized access attempts[span_9](start_span)[span_9](end_span).
-- Tracing malicious source IP addresses and distinguishing legitimate user traffic from malicious inputs[span_10](start_span)[span_10](end_span).
+- Correlating server logs to uncover malicious patterns and unauthorized access attempts.
+- Tracing malicious source IP addresses and distinguishing legitimate user traffic from malicious inputs.
 
 ### Task 4: Stop the Attack
-- Implementing immediate containment and mitigation actions (e.g., firewall block rules)[span_11](start_span)[span_11](end_span).
-- Restricting malicious IP addresses from interacting with critical application infrastructure to prevent unauthorized transfers[span_12](start_span)[span_12](end_span).
+- Implementing immediate containment and mitigation actions (e.g., firewall block rules).
+- Restricting malicious IP addresses from interacting with critical application infrastructure to prevent unauthorized transfers.
 
 ---
 
